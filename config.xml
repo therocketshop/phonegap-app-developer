@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.adobe.phonegap.app" version="1.8.4" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>PhoneGap</name>
+<widget id="net.schmoozle.app" version="1.8.4" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Schmoozle</name>
     <description>
-        The PhoneGap Developer app is a testing utility for web developers and designers using the PhoneGap framework. After installing this app on your device you will be able to connect it to the PhoneGap desktop app to instantly view and test your work
+        The Schmoozle app is a test utility using the PhoneGap framework. After installing this app on your device you will be able to connect it to the PhoneGap desktop app to instantly view and test your work
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
+    <author email="support@therocketshop.co.uk" href="http://therocketshop.co.uk">
         Adobe PhoneGap Team
     </author>
     <hook src="resources/script/before-test-runner.js" type="before_prepare" />
